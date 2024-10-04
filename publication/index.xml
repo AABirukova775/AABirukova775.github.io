@@ -5,7 +5,7 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
@@ -13,64 +13,64 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my 
- on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
+      <title>Непрерывная интеграция и непрерывное развертывание (CI/CD)</title>
+      <link>https://example.com/publication/publ1/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/publ1/</guid>
+      <description>&lt;h1 id=&#34;непрерывная-интеграция-и-непрерывное-развертывание-cicd&#34;&gt;Непрерывная интеграция и непрерывное развертывание (CI/CD)&lt;/h1&gt;
+&lt;h2 id=&#34;что-такое-cicd&#34;&gt;Что такое CI/CD?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;CI/CD&lt;/strong&gt; — это набор практик и процессов, которые помогают автоматизировать разработку, тестирование и развертывание приложений. Эти процессы включают &lt;strong&gt;непрерывную интеграцию (Continuous Integration, CI)&lt;/strong&gt; и &lt;strong&gt;непрерывное развертывание (Continuous Deployment, CD)&lt;/strong&gt;, обеспечивая быстрое и надёжное внесение изменений в код и их доставку в рабочую среду.&lt;/p&gt;
+&lt;h2 id=&#34;непрерывная-интеграция-ci&#34;&gt;Непрерывная интеграция (CI)&lt;/h2&gt;
+&lt;h3 id=&#34;основная-идея&#34;&gt;Основная идея&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Непрерывная интеграция&lt;/strong&gt; — это практика регулярного внесения изменений в основной код проекта с частыми интеграциями (например, ежедневно). Основная цель CI — выявление и устранение проблем на ранних этапах разработки. Это достигается за счёт автоматических тестов, которые проверяют каждое новое изменение кода.&lt;/p&gt;
+&lt;h3 id=&#34;преимущества-ci&#34;&gt;Преимущества CI&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Быстрое обнаружение ошибок&lt;/strong&gt;. Автоматическое тестирование на каждом этапе интеграции помогает быстро находить баги.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Уменьшение сложности слияний&lt;/strong&gt;. Поскольку изменения вносятся часто и в малых объёмах, процесс слияния веток становится проще и менее конфликтным.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Повышение качества кода&lt;/strong&gt;. Регулярные тесты и статический анализ кода позволяют поддерживать его стабильность и качество.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;основные-этапы-ci&#34;&gt;Основные этапы CI&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Разработчики отправляют свои изменения в систему контроля версий.&lt;/li&gt;
+&lt;li&gt;Автоматическая система запускает тесты, проверяющие корректность изменений.&lt;/li&gt;
+&lt;li&gt;В случае успеха изменения объединяются с основной веткой проекта.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;непрерывное-развертывание-cd&#34;&gt;Непрерывное развертывание (CD)&lt;/h2&gt;
+&lt;h3 id=&#34;основная-идея-1&#34;&gt;Основная идея&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Непрерывное развертывание&lt;/strong&gt; — это практика автоматического развертывания проверенного кода в рабочую среду без вмешательства человека. CD включает два этапа:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Непрерывная доставка (Continuous Delivery)&lt;/strong&gt;: Автоматизация процесса подготовки кода к развертыванию в любую среду (тестовую, промежуточную или продакшн). Внедрение на продакшн при этом может требовать ручного подтверждения.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Непрерывное развертывание (Continuous Deployment)&lt;/strong&gt;: Полностью автоматизированный процесс доставки кода в рабочую среду. Каждое успешное изменение автоматически разворачивается в продакшн.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;преимущества-cd&#34;&gt;Преимущества CD&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Быстрая доставка новых функций&lt;/strong&gt;. Благодаря автоматизации процесса развертывания, новые изменения доставляются пользователям практически мгновенно.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Уменьшение риска развертывания&lt;/strong&gt;. Так как изменения происходят небольшими порциями и часто, вероятность крупных проблем значительно снижается.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Увеличение скорости разработки&lt;/strong&gt;. Разработчики могут сосредоточиться на создании новых функций, не отвлекаясь на процессы развертывания.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;основные-этапы-cd&#34;&gt;Основные этапы CD&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Код, прошедший CI-процесс, отправляется в систему для подготовки к развертыванию.&lt;/li&gt;
+&lt;li&gt;Выполняются дополнительные тесты и проверки (например, тестирование в staging-среде).&lt;/li&gt;
+&lt;li&gt;В случае успешного завершения всех этапов происходит автоматическое развертывание кода в рабочей среде.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;как-cicd-помогает-в-разработке&#34;&gt;Как CI/CD помогает в разработке?&lt;/h2&gt;
+&lt;p&gt;CI/CD автоматизирует многие аспекты разработки и развертывания, что позволяет:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Минимизировать ручной труд&lt;/strong&gt;. Разработчикам не нужно вручную тестировать каждое изменение или заниматься развертыванием, что сокращает количество ошибок и снижает нагрузку на команду.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Повысить производительность&lt;/strong&gt;. Автоматизация процессов увеличивает скорость выпуска новых версий продукта, позволяя быстрее реагировать на запросы пользователей и устранять баги.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Обеспечить стабильность&lt;/strong&gt;. Автоматические тесты и проверки гарантируют, что каждое изменение проверено и готово к развертыванию, снижая вероятность багов на продакшн.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;внедрение-cicd&#34;&gt;Внедрение CI/CD&lt;/h2&gt;
+&lt;p&gt;Для успешного внедрения CI/CD в проект важно следовать следующим шагам:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Автоматизация тестирования&lt;/strong&gt;. Создайте и поддерживайте набор автоматических тестов для проверки функциональности, производительности и безопасности приложения.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Контроль версий&lt;/strong&gt;. Обеспечьте корректное использование систем контроля версий (например, Git), чтобы все изменения были легко отслеживаемыми.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Настройка CI/CD-платформ&lt;/strong&gt;. Используйте специализированные инструменты для настройки автоматических процессов (например, Jenkins, GitLab CI, GitHub Actions).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Постепенное внедрение&lt;/strong&gt;. Начните с непрерывной интеграции, а затем добавляйте процессы непрерывного развертывания по мере готовности команды.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;CI/CD является ключевой практикой в современной разработке программного обеспечения, которая позволяет ускорить выпуск новых версий, повысить качество продукта и минимизировать количество ошибок. Внедрение этих процессов требует начальных усилий, но в долгосрочной перспективе оно значительно упрощает работу и ускоряет развитие проекта.&lt;/p&gt;
 </description>
     </item>
     
