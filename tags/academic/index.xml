@@ -5,12 +5,89 @@
     <link>https://example.com/tags/academic/</link>
       <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Academic</title>
       <link>https://example.com/tags/academic/</link>
     </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://example.com/publication/publ2/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/publ2/</guid>
+      <description>&lt;h1 id=&#34;легковесные-языки-разметки-простота-и-эффективность&#34;&gt;Легковесные языки разметки: простота и эффективность&lt;/h1&gt;
+&lt;p&gt;Легковесные языки разметки — это специальные языки, предназначенные для создания отформатированного текста, который легко читать и редактировать в исходном виде. Они отличаются простотой синтаксиса, который минимально нагружен специальными символами и легко преобразуется в более сложные форматы, такие как HTML или PDF.&lt;/p&gt;
+&lt;h2 id=&#34;преимущества-легковесных-языков-разметки&#34;&gt;Преимущества легковесных языков разметки&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Простота и читаемость&lt;/strong&gt;&lt;br&gt;
+В отличие от языков с громоздким синтаксисом (например, HTML), легковесные языки разметки используют минимальное количество символов для задания форматирования. Это делает текст удобным для чтения даже в исходном виде.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Меньше ошибок при редактировании&lt;/strong&gt;&lt;br&gt;
+Из-за своей простоты они требуют меньше усилий для поддержки и исправления. Например, пользователи могут легко редактировать документы без необходимости проверять сложные теги.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Поддержка различных форматов вывода&lt;/strong&gt;&lt;br&gt;
+Документы, созданные с помощью легковесных языков разметки, могут быть легко преобразованы в различные выходные форматы — от HTML до PDF, сохраняя структуру и форматирование.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Совместимость с системами контроля версий&lt;/strong&gt;&lt;br&gt;
+Поскольку легковесные языки разметки создают текстовые файлы, они прекрасно подходят для использования в системах контроля версий (например, Git). Это делает их отличным выбором для документации программного обеспечения или совместной работы.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;примеры-легковесных-языков-разметки&#34;&gt;Примеры легковесных языков разметки&lt;/h2&gt;
+&lt;h3 id=&#34;1-markdown&#34;&gt;1. Markdown&lt;/h3&gt;
+&lt;p&gt;Наиболее известный и широко используемый легковесный язык. Он был разработан для написания текстов в формате, который легко читается в сыром виде и может быть преобразован в HTML. Пример синтаксиса:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# Заголовок 1 уровня
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;## Заголовок 2 уровня
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gs&#34;&gt;**Жирный текст**&lt;/span&gt; и &lt;span class=&#34;ge&#34;&gt;*курсив*&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Список
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; С элементами
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;2-asciidoc&#34;&gt;2. AsciiDoc&lt;/h3&gt;
+&lt;p&gt;Этот язык используется для создания документации и поддерживает более сложное форматирование по сравнению с Markdown. AsciiDoc также легко конвертируется в HTML и другие форматы:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Копировать код
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;= Заголовок документа
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;== Заголовок второго уровня
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;**Жирный текст** и _курсив_.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* Список
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* Элементов
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;restructuredtext-rest&#34;&gt;reStructuredText (reST)&lt;/h3&gt;
+&lt;p&gt;Часто используется для написания документации в проектах на Python. reST поддерживает более сложные структуры, такие как таблицы и сноски:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-rst&#34; data-lang=&#34;rst&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Копировать код&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gh&#34;&gt;Заголовок&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;=========&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Это &lt;span class=&#34;gs&#34;&gt;**жирный текст**&lt;/span&gt; и &lt;span class=&#34;ge&#34;&gt;*курсив*&lt;/span&gt;.&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;m&#34;&gt;*&lt;/span&gt; Первый элемент списка&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;*&lt;/span&gt; Второй элемент&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;где-используются-легковесные-языки-разметки&#34;&gt;Где используются легковесные языки разметки?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Документация программного обеспечения&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Программисты и технические писатели часто используют Markdown, AsciiDoc и reST для создания документации.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Блоги и статьи&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Многие платформы, такие как GitHub, Medium и Reddit, поддерживают легковесные языки разметки для написания постов.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Вики-страницы&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Легковесные языки часто используются в системах вики для написания и редактирования контента.&lt;/p&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки позволяют быстро и эффективно форматировать текст, не перегружая его сложными тегами и символами. Они идеально подходят для создания документации, постов в блогах и другого контента, где важна как простота в редактировании, так и возможность конвертации в различные форматы.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя с 14.19 по 19.10</title>
+      <link>https://example.com/post/post2/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post2/</guid>
+      <description>&lt;p&gt;На этой неделе я заполняла журнал старосты и договаривалась с преподавателями о переносе пар.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя с 30.09 по 5.10</title>
